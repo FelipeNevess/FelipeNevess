@@ -2,7 +2,7 @@
 
 .🚀 I currently study at Trybe
 
-.💻 JavaScript, React, ES6, Node, Jest...
+.💻 JavaScript, React, ES6, Node, Jest, Bootstrap...
 
 .⚡ I love playing video games and watching anime
 
