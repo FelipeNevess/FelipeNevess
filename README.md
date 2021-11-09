@@ -6,6 +6,8 @@
 
 .⚡ I love playing video games and watching anime
 
+.Portfólio 👉 https://felipeneves.netlify.app/
+
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Neves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-neves-/) 
 [![Gmail Badge](https://img.shields.io/badge/-fneves.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fneves.dev@gmail.com)](fneves.dev@gmail.com)
 
