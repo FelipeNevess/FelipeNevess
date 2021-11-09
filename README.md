@@ -7,7 +7,7 @@
 .⚡ I love playing video games and watching anime
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Neves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-neves-/) 
-[![Gmail Badge](https://img.shields.io/badge/-felipe012neves@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fneves.dev@gmail.com)](fneves.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fneves.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fneves.dev@gmail.com)](fneves.dev@gmail.com)
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
