@@ -16,4 +16,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="23" height="23"/>
 </p>
 
+<div align="center">
+  <a href="https://github.com/engenny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianWesleyFront&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianWesleyFront&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
 Have a great day🌝 or a great night🌚! Until late🖖🤞
