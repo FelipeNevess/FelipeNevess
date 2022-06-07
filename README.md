@@ -10,8 +10,9 @@
 
 🤘🏽  Não desista do rock
 
-[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Neves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-neves-/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Neves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-neves/)](https://www.linkedin.com/in/felipe-neves-/) 
 [![Gmail Badge](https://img.shields.io/badge/-fneves.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fneves.dev@gmail.com)](fneves.dev@gmail.com)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=Hackerrank&logoColor=white&link=mailto:[fneves.dev@gmail.com](https://www.hackerrank.com/felipe012neves?hr_r=1))](Hackerrank)
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" />
