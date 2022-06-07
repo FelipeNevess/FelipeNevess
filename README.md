@@ -15,6 +15,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" />
   <img src="https://img.shields.io/badge/RubyOnRails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="RUBY ON RAILS" />
+  <img src="https://img.shields.io/badge/Sequelize-222222?style=for-the-badge&logo=sequelize&logoColor=468DB6" alt="SEQUELIZE" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>
@@ -25,7 +26,7 @@
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="CHAI" />
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="MOCHA" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/Sass-2496ED?style=for-the-badge&logo=sass&logoColor=white" alt="DOCKER" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DOCKER" />
   <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS" />
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL" />
@@ -36,6 +37,3 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeNevess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeNevess&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
- 
-  <h3>Have a great day🌝 or a great night🌚! Until late🖖🤞</h3>
