@@ -1,4 +1,4 @@
-### Ei! Bem-vindo ao meu perfil! Como vão as coisas? 😉👋
+<h2 align="center">Eiii! Bem-vindo ao meu perfil! Como vão as coisas? 😉👋</h2>
 
 #### Sobre mim
 
