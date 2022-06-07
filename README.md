@@ -2,12 +2,13 @@
 
 #### Sobre mim
 
-🚀 Atualmente estudo na Trybe
+🚀  Atualmente estudo na Trybe
 
-💻 JavaScript, React, ES6, Node, Jest, Bootstrap, Mysql...
+💻  JavaScript, React, ES6, Node, Jest, Bootstrap, Mysql...
 
-⚡ Curto muito jogar videogame, desenhar e assistir anime
+⚡  Curto muito jogar videogame, desenhar e assistir animes
 
+🤘🏽  Não desista do rock
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Neves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-neves-/) 
 [![Gmail Badge](https://img.shields.io/badge/-fneves.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fneves.dev@gmail.com)](fneves.dev@gmail.com)
