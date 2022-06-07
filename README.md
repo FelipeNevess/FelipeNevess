@@ -1,23 +1,34 @@
-### Hey! Welcome to my profile! How is it going? 😉👋
+### Ei! Bem-vindo ao meu perfil! Como vão as coisas? 😉👋
 
-.🚀 I currently study at Trybe
+#### Sobre mim
 
-.💻 JavaScript, React, ES6, Node, Jest, Bootstrap...
+🚀 Atualmente estudo na Trybe
 
-.⚡ I love playing video games and watching anime
+💻 JavaScript, React, ES6, Node, Jest, Bootstrap, Mysql...
+
+⚡ Curto muito jogar videogame, desenhar e assistir anime
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Neves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/felipe-neves-/) 
 [![Gmail Badge](https://img.shields.io/badge/-fneves.dev@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fneves.dev@gmail.com)](fneves.dev@gmail.com)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="REACT" />
+  <img src="https://img.shields.io/badge/RubyOnRails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="RUBY ON RAILS" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PYTHON"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="RUBY"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX" />
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="JEST" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BOOTSTRAP" />
+  <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white" alt="CHAI" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="MOCHA" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/Sass-2496ED?style=for-the-badge&logo=sass&logoColor=white" alt="DOCKER" />
+  <img src="https://img.shields.io/badge/Nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NODE.JS" />
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
+  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL" />
 </p>
 
 <div align="left">
