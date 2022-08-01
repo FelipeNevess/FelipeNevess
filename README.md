@@ -2,8 +2,6 @@
 
 #### Sobre mim
 
-🚀  Atualmente estudo na Trybe
-
 💻  JavaScript, React, ES6, Node, Jest, Bootstrap, Mysql...
 
 ⚡  Curto muito jogar videogame, desenhar e assistir animes
